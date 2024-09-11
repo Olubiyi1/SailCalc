@@ -50,9 +50,7 @@ div p{
     background-color: red;
 }
 #display{
-    /* position: relative; */
     font-size: 1.5em;
-    /* height: 100px; */
    overflow: hidden;
     background-color: white;
     border-radius: 10px;
@@ -62,14 +60,12 @@ div p{
 #collect{
     position: absolute;
     top:13%; 
-    left: 29%;
+    left: 0%;
     background-color:white;
-    width: fit-content;
+    width: 300px;
     font-size: 1.5em;
     overflow: hidden; 
-    /* width: 300px; */
     height: 50px;
-    /* background-color: white; */
     border-radius: 10px;
     text-align: right;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
